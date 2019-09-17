@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://source.gracelead.org",
-    "contentApiKey": $gl_content_api_key
+    "contentApiKey": "4b68b5aa82fbfe39e956840324"
   },
   "production": {
     "apiUrl": "https://source.gracelead.org",
-    "contentApiKey": $gl_content_api_key
+    "contentApiKey": "4b68b5aa82fbfe39e956840324"
   }
 }
